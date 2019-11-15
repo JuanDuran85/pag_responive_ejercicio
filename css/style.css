@@ -112,7 +112,7 @@
     .col-xs-1 {width: 8.33333333%;}
     .col-xs-0 {display: none;}
 
-    header section div{
+    header section div {
         display: flex;
         justify-content: center;
         align-items: center;
@@ -184,4 +184,37 @@ nav ul li a:active{
 }
 /*=============================================
         =    Fin Seccion 2    =
+=============================================*/
+
+/*=============================================
+        =    Inicio Seccion 3    =
+=============================================*/
+
+.seccion3 article {
+    padding: 20px;
+    background: #ccc;
+    text-align: center;
+}
+
+.seccion3 img {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+
+.seccion3 h1 {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.seccion3 p {
+    padding: 10px;
+}
+
+
+
+
+/*=============================================
+        =    Fin Seccion 3    =
 =============================================*/
